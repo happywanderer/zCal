@@ -107,18 +107,18 @@ WEATHER STUFF
 ------------------*/
 //---MONTH
 var MonthId = [
-    {Month: 1,Name: 'January',Base: 10},
-    {Month: 2,Name: 'February',Base: 20},
-    {Month: 3,Name: 'March',Base: 40},
-    {Month: 4,Name: 'April',Base: 60},
-    {Month: 5,Name: 'May',Base: 70},
-    {Month: 6,Name: 'June',Base: 80},
-    {Month: 7,Name: 'July',Base: 90},  
-    {Month: 8,Name: 'August',Base: 80},  
-    {Month: 9,Name: 'September',Base: 60},  
-    {Month: 10,Name: 'October',Base: 30},  
-    {Month: 11,Name: 'November',Base: 20},  
-    {Month: 12,Name: 'December',Base: 10}  
+    {Month: 1,Name: 'Hammer',Base: 10},
+    {Month: 2,Name: 'Alturiak',Base: 20},
+    {Month: 3,Name: 'Ches',Base: 40},
+    {Month: 4,Name: 'Tarsakh',Base: 60},
+    {Month: 5,Name: 'Mirtul',Base: 70},
+    {Month: 6,Name: 'Kythorn',Base: 80},
+    {Month: 7,Name: 'FLamerule',Base: 90},  
+    {Month: 8,Name: 'Eleasis',Base: 80},  
+    {Month: 9,Name: 'Eleint',Base: 60},  
+    {Month: 10,Name: 'Marpenoth',Base: 30},  
+    {Month: 11,Name: 'Uktar',Base: 20},  
+    {Month: 12,Name: 'Nightal',Base: 10}  
 ];
 //---FOG TYPES
 var Fog = [
